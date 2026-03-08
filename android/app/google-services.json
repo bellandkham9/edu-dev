@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "129589632246",
+    "project_id": "edudev-af315",
+    "storage_bucket": "edudev-af315.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129589632246:android:3088d413727787831320d7",
+        "android_client_info": {
+          "package_name": "com.example.edu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbtIP2N-qTedwwKhfJ-CWVIYZMFycH0FE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
